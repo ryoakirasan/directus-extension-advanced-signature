@@ -15,8 +15,6 @@ lerna-debug.log*
 *.db
 
 node_modules
-dist
-dist-ssr
 *.local
 .cache
 .idea
