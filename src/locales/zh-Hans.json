@@ -1,0 +1,15 @@
+{
+  "signature": "签名",
+  "online_writing": "在线手写",
+  "mobile_scan": "手机扫码",
+  "rewrite": "重写",
+  "confirm_use": "确认使用",
+  "scan_instruction": "请使用手机扫描上方二维码进行签名",
+  "waiting_mobile": "正在等待手机端提交...",
+  "connection_lost": "连接已断开",
+  "refresh": "刷新",
+  "clear_signature": "清除签名",
+  "signed_by": "签署人",
+  "signed_at": "签署时间",
+  "landscape_instruction": "请横屏签名"
+}

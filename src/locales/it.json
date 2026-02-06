@@ -1,0 +1,14 @@
+{
+  "online_writing": "Scrittura online",
+  "mobile_scan": "Scan Mobile",
+  "rewrite": "Cancella",
+  "confirm_use": "Conferma",
+  "scan_instruction": "Scansiona il codice QR per firmare",
+  "waiting_mobile": "In attesa di invio...",
+  "connection_lost": "Connessione persa",
+  "refresh": "Aggiorna",
+  "clear_signature": "Cancella firma",
+  "signed_by": "Firmato da",
+  "signed_at": "Data firma",
+  "landscape_instruction": "Si prega di firmare in modalità orizzontale"
+}

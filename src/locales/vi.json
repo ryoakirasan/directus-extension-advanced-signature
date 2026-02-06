@@ -1,0 +1,14 @@
+{
+  "online_writing": "Viết trực tuyến",
+  "mobile_scan": "Quét di động",
+  "rewrite": "Viết lại",
+  "confirm_use": "Xác nhận",
+  "scan_instruction": "Vui lòng quét mã QR để ký tên",
+  "waiting_mobile": "Đang chờ gửi từ điện thoại...",
+  "connection_lost": "Mất kết nối",
+  "refresh": "Tải lại",
+  "clear_signature": "Xóa chữ ký",
+  "signed_by": "Người ký",
+  "signed_at": "Thời gian ký",
+  "landscape_instruction": "Vui lòng ký ở chế độ ngang"
+}

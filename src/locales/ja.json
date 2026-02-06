@@ -1,0 +1,14 @@
+{
+  "online_writing": "オンライン入力",
+  "mobile_scan": "モバイル署名",
+  "rewrite": "書き直し",
+  "confirm_use": "確定する",
+  "scan_instruction": "QRコードをスキャンして署名してください",
+  "waiting_mobile": "モバイルからの送信を待機中...",
+  "connection_lost": "接続が切断されました",
+  "refresh": "更新",
+  "clear_signature": "署名をクリア",
+  "signed_by": "署名者",
+  "signed_at": "署名日時",
+  "landscape_instruction": "画面を横向きにして署名してください"
+}

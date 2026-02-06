@@ -1,0 +1,14 @@
+{
+  "online_writing": "Online-Schreiben",
+  "mobile_scan": "QR-Scan",
+  "rewrite": "Löschen",
+  "confirm_use": "Bestätigen",
+  "scan_instruction": "Scannen Sie den QR-Code zum Unterschreiben",
+  "waiting_mobile": "Warten auf mobile Übermittlung...",
+  "connection_lost": "Verbindung unterbrochen",
+  "refresh": "Aktualisieren",
+  "clear_signature": "Signatur löschen",
+  "signed_by": "Unterzeichnet von",
+  "signed_at": "Zeitpunkt",
+  "landscape_instruction": "Bitte im Querformat unterschreiben"
+}

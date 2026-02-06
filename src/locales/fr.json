@@ -1,0 +1,14 @@
+{
+  "online_writing": "Écriture en ligne",
+  "mobile_scan": "Scan Mobile",
+  "rewrite": "Effacer",
+  "confirm_use": "Confirmer",
+  "scan_instruction": "Scannez le code QR pour signer",
+  "waiting_mobile": "En attente de soumission...",
+  "connection_lost": "Connexion perdue",
+  "refresh": "Actualiser",
+  "clear_signature": "Effacer la signature",
+  "signed_by": "Signé par",
+  "signed_at": "Signé le",
+  "landscape_instruction": "Veuillez signer en mode paysage"
+}

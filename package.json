@@ -1,0 +1,52 @@
+{
+  "name": "directus-extension-advanced-signature",
+  "description": "An advanced signature interface for Directus that supports both online handwriting and mobile QR code signing, featuring realistic brush strokes and multi-language support.",
+  "icon": "extension",
+  "version": "1.0.0",
+  "keywords": [
+    "directus",
+    "directus-extension",
+    "directus-extension-bundle"
+  ],
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "directus:extension": {
+    "type": "bundle",
+    "path": {
+      "app": "dist/app.js",
+      "api": "dist/api.js"
+    },
+    "entries": [
+      {
+        "type": "interface",
+        "name": "advanced-signature",
+        "source": "src/advanced-signature/index.js"
+      },
+      {
+        "type": "endpoint",
+        "name": "signature-bridge",
+        "source": "src/signature-bridge/index.js"
+      }
+    ],
+    "host": "^10.10.0"
+  },
+  "scripts": {
+    "build": "directus-extension build && copyfiles -f src/signature-bridge/smooth-signature.js dist/",
+    "dev": "copyfiles -f src/signature-bridge/smooth-signature.js dist/ && directus-extension build -w --no-minify",
+    "link": "directus-extension link",
+    "validate": "directus-extension validate",
+    "add": "directus-extension add"
+  },
+  "devDependencies": {
+    "@directus/extensions-sdk": "17.0.5",
+    "copyfiles": "^2.4.1"
+  },
+  "dependencies": {
+    "accept-language-parser": "^1.5.0",
+    "qrcode.vue": "^3.8.0",
+    "smooth-signature": "^1.1.0",
+    "vue-i18n": "^11.2.8"
+  }
+}

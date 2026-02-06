@@ -1,0 +1,14 @@
+{
+  "online_writing": "線上書写",
+  "mobile_scan": "手機掃碼",
+  "rewrite": "重寫",
+  "confirm_use": "確認使用",
+  "scan_instruction": "請使用手機掃描上方二維碼进行簽名",
+  "waiting_mobile": "正在等待手機端提交...",
+  "connection_lost": "連接已断開",
+  "refresh": "刷新",
+  "clear_signature": "清除簽名",
+  "signed_by": "簽署人",
+  "signed_at": "簽署時間",
+  "landscape_instruction": "請橫屏簽名"
+}

@@ -1,0 +1,14 @@
+{
+  "online_writing": "온라인 수기",
+  "mobile_scan": "모바일 스캔",
+  "rewrite": "다시 쓰기",
+  "confirm_use": "확인",
+  "scan_instruction": "QR 코드를 스캔하여 서명해 주세요",
+  "waiting_mobile": "모바일 제출 대기 중...",
+  "connection_lost": "연결이 끊겼습니다",
+  "refresh": "새로고침",
+  "clear_signature": "서명 삭제",
+  "signed_by": "서명자",
+  "signed_at": "서명 시간",
+  "landscape_instruction": "가로 모드로 서명해 주세요"
+}

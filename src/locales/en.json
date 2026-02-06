@@ -1,0 +1,15 @@
+{
+  "signature": "Signature",
+  "online_writing": "Online Writing",
+  "mobile_scan": "Mobile Scan",
+  "rewrite": "Rewrite",
+  "confirm_use": "Confirm",
+  "scan_instruction": "Please use your phone to scan the QR code",
+  "waiting_mobile": "Waiting for mobile submission...",
+  "connection_lost": "Connection lost",
+  "refresh": "Refresh",
+  "clear_signature": "Clear Signature",
+  "signed_by": "Signed by",
+  "signed_at": "Signed at",
+  "landscape_instruction": "Please sign in landscape mode"
+}
