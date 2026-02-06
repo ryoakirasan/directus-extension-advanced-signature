@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Directus Version](https://img.shields.io/badge/Directus-%5E10.10.0-ff69b4)](https://directus.io/)
+[![GitHub stars](https://img.shields.io/github/stars/ryoakirasan/directus-extension-advanced-signature?style=social)](https://github.com/ryoakirasan/directus-extension-advanced-signature)
 
 An advanced signature interface for Directus that supports both online handwriting and mobile QR code signing, featuring realistic brush strokes and multi-language support.
 
