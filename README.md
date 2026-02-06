@@ -16,9 +16,9 @@ An advanced signature interface for Directus that supports both online handwriti
     ![Signature Effect](/assets/online_sig.jpg)
 
 *   **Mobile Signing Mode**:
-<video width="272" height="480" controls>
-  <source src="./assets/mobile_sig.mp4" type="video/mp4">
-</video>
+  
+    https://github.com/user-attachments/assets/15e48820-2f3f-4c01-b370-952f19d71e09
+
 
 ---
 
